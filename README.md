@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi. This is Zhongyi Lu's brief introduction.
 
-<!--
-**Zhongyi-Lu/Zhongyi-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Education
+* Currently:
+  * Major: M.S. in Computer Science
+  * School: Northeastern University
+  * Campus: Silicon Valley Campus at San Jose, California
+  * Expected Graduate Date: May 2024
+* Previously:
+  * University of Illinois at Chicago: M.S. in Chemistry
+  * Nanjing University: B.S. in Chemistry
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Project
+* LiViz: An interactive virtualization and sharing service
+	* Backend server: https://github.com/LiViz-cc/lvz-backend
+* Programmable Spectroscopy Operating Platform for Scanning Tunneling Microscopy
+* Interactive Analyzer for Tip-enhanced Raman Spectroscopy
+* Naughty Piggy: An arty game in Java
+  * https://github.com/CS-5004-Final-Project-LLW/MyArty
