@@ -9,8 +9,8 @@
   * Campus: Silicon Valley Campus at San Jose, California
   * Expected Graduate Date: May 2024
 * Previously:
-  * University of Illinois at Chicago: M.S. in Chemistry
-  * Nanjing University: B.S. in Chemistry
+  * University of Illinois at Chicago: M.S. in Chemistry 2021
+  * Nanjing University: B.S. in Chemistry 2019
 
 # Project
 * LiViz: An interactive virtualization and sharing service
