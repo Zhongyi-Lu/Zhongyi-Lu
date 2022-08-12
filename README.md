@@ -1,4 +1,6 @@
-### Hi. This is Zhongyi Lu's brief introduction.
+### Hi. This is my brief introduction
+* I am seeking for an internship for **backend web development** in Summer 2023 in the United States
+* (Spring 2023 is applicable too)
 
 # Education
 * Currently:
