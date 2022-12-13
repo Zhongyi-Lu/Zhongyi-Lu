@@ -1,6 +1,5 @@
 ### Hi. This is my brief introduction
 * I am seeking for an internship for **backend web development** in Summer 2023 in the United States
-* (Spring 2023 is applicable too)
 
 # Education
 * Currently:
@@ -13,9 +12,8 @@
   * Nanjing University: B.S. in Chemistry 2019
 
 # Project
-* LiViz: An interactive virtualization and sharing service
-	* Backend server: https://github.com/LiViz-cc/lvz-backend
+* [LiViz: An interactive virtualization and sharing service](https://github.com/LiViz-cc/lvz-backend)
+* [FindMeow: A React Native mobile app for cat buyers and catteries](https://github.com/Zhongyi-Lu/MobileAppDev-FindMeow/)
+* [Naughty Piggy: An arty game in Java](https://github.com/CS-5004-Final-Project-LLW/MyArty)
 * Programmable Spectroscopy Operating Platform for Scanning Tunneling Microscopy
 * Interactive Analyzer for Tip-enhanced Raman Spectroscopy
-* Naughty Piggy: An arty game in Java
-  * https://github.com/CS-5004-Final-Project-LLW/MyArty
