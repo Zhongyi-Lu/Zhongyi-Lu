@@ -6,7 +6,7 @@
   * Major: M.S. in Computer Science
   * School: Northeastern University
   * Campus: Silicon Valley Campus at San Jose, California
-  * Expected Graduate Date: May 2024
+  * Expected Graduate: 2024
 * Previously:
   * University of Illinois at Chicago: M.S. in Chemistry 2021
   * Nanjing University: B.S. in Chemistry 2019
