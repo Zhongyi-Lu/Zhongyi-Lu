@@ -1,5 +1,5 @@
 ### Hi. This is my brief introduction
-* I am seeking for an internship in 2023 and full-time job in 2024 for **backend web development** in the United States
+* I am seeking for jobs in 2024 for **backend development** in the United States! I am available for both full-time and internship.
 
 # Education
 * Currently:
