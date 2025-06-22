@@ -1,5 +1,4 @@
 ### Hi. This is my brief introduction
-* I am seeking for **backend development** jobs in the United States!
 
 # Education
 * Currently:
